@@ -8,9 +8,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [How to Use](#how-to-use)
-- [Contributors](#contributors)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Description
 
